@@ -5,7 +5,6 @@
 - Christopher Silva
 
 ### Archivos
-- s:
-- s:
-- 
+- **Jupyter Guiado**: ``Tarea_1_INF395_2023.ipynb``. Solo es necesario correr las celdas desde la parte 2.
+- **Desafío Kaggle**: ``desafioKaggle``.
 
