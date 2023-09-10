@@ -1,2 +1,11 @@
-# losExtranjeros
-Repositorio para Tarea 1 07/09
+# Grupo: Los Extranjeros
+##### Autores
+- Sebastian Salazar
+- Juan Suárez
+- Christopher Silva
+
+### Archivos
+- s:
+- s:
+- 
+
